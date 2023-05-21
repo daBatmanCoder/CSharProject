@@ -1,0 +1,7 @@
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\obj\Debug\codeinter.csprojAssemblyReference.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\obj\Debug\codeinter.csproj.CoreCompileInputs.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\bin\Debug\codeinter.exe.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\bin\Debug\codeinter.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\bin\Debug\codeinter.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\obj\Debug\codeinter.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw3\B22 Ex03 BenShaya 315856484 JonathanKandel 206483604\codeinter\obj\Debug\codeinter.pdb
