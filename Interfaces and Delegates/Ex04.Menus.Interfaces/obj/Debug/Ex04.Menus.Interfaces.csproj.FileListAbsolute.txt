@@ -1,0 +1,7 @@
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csprojAssemblyReference.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb

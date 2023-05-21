@@ -1,0 +1,14 @@
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojAssemblyReference.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CopyComplete
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb

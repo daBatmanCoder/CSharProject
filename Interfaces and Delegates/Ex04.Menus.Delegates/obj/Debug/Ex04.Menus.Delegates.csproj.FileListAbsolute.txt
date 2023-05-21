@@ -1,0 +1,7 @@
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csprojAssemblyReference.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw4\B22 Ex04 BenShaya 315856484 JonathanKandel 206483604\Ex04.Menus.Delegates\obj\Debug\Ex04.Menus.Delegates.pdb
