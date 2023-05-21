@@ -1,0 +1,12 @@
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.csprojAssemblyReference.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.Damka.resources
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.InitForm.resources
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.csproj.GenerateResource.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.csproj.CoreCompileInputs.cache
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\bin\Debug\FrontDamka.exe.config
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\bin\Debug\FrontDamka.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\bin\Debug\FrontDamka.pdb
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\bin\Debug\BackDamka.dll
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.csproj.CopyComplete
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.exe
+C:\Users\yonik\OneDrive\שולחן העבודה\C#\hw5\B22 Ex05 BenShaya 315856484 JonathanKandel 206483604\FrontDamka\obj\Debug\FrontDamka.pdb
